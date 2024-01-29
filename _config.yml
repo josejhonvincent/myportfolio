@@ -57,7 +57,7 @@ content:
         title: STI College Parañaque
         caption: ​​2015 - 2016
         sub_title: Bachelor of Science in Information Technology
-        
+content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
         title: Freelance
