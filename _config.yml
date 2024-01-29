@@ -51,8 +51,6 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
-    content:
-    layout: center
         title: Arellano University Jose Abad Santos
         caption: 2016 - 2017
         sub_title: Bachelor of Science in Information Technology
@@ -62,8 +60,6 @@ content:
         
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
-    content:
-    layout: center
         title: Freelance
         # link_text: boringcompany.com
         sub_title: Graphic Designer
